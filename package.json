@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "10"
+    "node": ">=12"
   },
   "dependencies": {
     "@line/bot-sdk": "^9.2.2",
